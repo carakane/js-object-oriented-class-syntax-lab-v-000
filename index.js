@@ -22,7 +22,7 @@ class BoardMember {
   }
 }
 
-class Ceo extendes BoardMember {
+class Ceo extends BoardMember {
   hireEmployee() {
     return "Welcome aboard!"
   }
